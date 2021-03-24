@@ -2,4 +2,4 @@
 
 https://dart.dev/tutorials
 
-This repositori is my learning log.
+This repository is my learning log.
